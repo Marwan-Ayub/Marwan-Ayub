@@ -5,7 +5,7 @@
 I'm Marwan Ayub and I'm 21, a dynamic web developer with expertise in HTML, CSS, JavaScript, and PHP. I
 specialize in frontend design using Bootstrap and Tailwind, and I'm proficient in Laravel, Vue.js, C#, and Python. I'm passionate about creating seamless user experiences and thrive in collaborative environments, always striving to innovate and deliver exceptional results.
 
-## Skills: Laravel
+## Skills: Laravel Vue JS
 
 - 🔭 I’m currently working on Freelancer 
 - 🌱 I’m currently learning Laravel, Vue JS 
@@ -14,5 +14,6 @@ specialize in frontend design using Bootstrap and Tailwind, and I'm proficient i
 - ⚡ Fun fact: Football and Coding....  
 
 
+## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Marwan-Ayub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marwan-ayub//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Marwan.danoka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dano_diamond/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@Dano_diamond)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](Dano_Diamond)  
 
