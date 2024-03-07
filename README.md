@@ -1,5 +1,5 @@
-### Hi there 👋, I am Marwan Ayub
-#### I am Web Developer | Laravel Developer 
+# Hi, I am Marwan Ayub
+## I am Web Developer | Laravel Developer 
 ![I am Web Developer | Laravel Developer ](https://media.licdn.com/dms/image/D4D16AQHTFelI5hH3AA/profile-displaybackgroundimage-shrink_350_1400/0/1709504949651?e=1715212800&v=beta&t=Tg9OdwR97-WDpXNNDgJkPnl3c0v3CnTC83ipC32zcJ8)
 
 I'm Marwan Ayub and I'm 21, a dynamic web developer with expertise in HTML, CSS, JavaScript, and PHP. I
