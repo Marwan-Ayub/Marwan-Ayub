@@ -5,7 +5,7 @@
 I'm Marwan Ayub and I'm 21, a dynamic web developer with expertise in HTML, CSS, JavaScript, and PHP. I
 specialize in frontend design using Bootstrap and Tailwind, and I'm proficient in Laravel, Vue.js, C#, and Python. I'm passionate about creating seamless user experiences and thrive in collaborative environments, always striving to innovate and deliver exceptional results.
 
-##Skills: Laravel
+## Skills: Laravel
 
 - 🔭 I’m currently working on Freelancer 
 - 🌱 I’m currently learning Laravel, Vue JS 
